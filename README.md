@@ -1,6 +1,6 @@
 # Basic Calculater
 ##About Us
-This is a basic calculater that perform arithmetic operation such as addition ,subtraction ,multiplication and division it is built HTML,CSS and JavaScript.
+This is a basic calculater that perform arithmetic operation such as addition ,subtraction ,multiplication and division it is built HTML,CSS and JavaScript.   
 ##Getting Started
 To use this calculator, simply open the index.html file in your web browser. The calculator interface will be displayed on the screen.
 ##Usage
